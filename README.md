@@ -30,6 +30,8 @@ If you're unfamiliar with these, check out the cheat sheets provided in the [her
 ## Repositories
 
 Explore the GitHub repository for sample repositories related to the workshop.
+1. Personal Portfolio
+2. Timetable Builder
 
 Happy learning!
 
@@ -45,10 +47,10 @@ Happy learning!
   3. Please change it to VSCode *(it may prompt a VSCode download, but can be safely ignored if you already have it installed)*.
 
 # Cheatsheet
-  - [**HTML + CSS**]()
-  - [**Linux Command Line**]()
-  - [**Java**]()
-  - [**Git + Github**]()
+  - [**HTML + CSS**](https://github.com/acmw-bpdc/version-control-workshop/blob/main/Cheatsheet/HTML%2BCSS%20in%205%20minutes.pdf)
+  - [**Linux Command Line**](https://github.com/acmw-bpdc/version-control-workshop/blob/main/Cheatsheet/Linux%20Cheatsheet.pdf)
+  - [**Java**](https://github.com/acmw-bpdc/version-control-workshop/blob/main/Cheatsheet/Java%20Cheatsheet.pdf)
+  - [**Git + Github**](https://github.com/acmw-bpdc/version-control-workshop/blob/main/Cheatsheet/Git%2BGithub%20Cheatsheet%20.pdf)
 
 
 
