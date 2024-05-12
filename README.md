@@ -36,8 +36,9 @@ Happy learning!
 # Installation
 **Java**
   1. First install the Visual Studio Code with Java pack on your system.
-  2. If you already have Java installed, then use [this](code.visualstudio.com/download) *(if you have a windows system, please download the x64 User Installer)*&
+  2. If you already have Java installed, then use [this](code.visualstudio.com/download) *(if you have a windows system, please download the x64 User Installer)*
   3. Download the [java extensions](https://code.visualstudio.com/docs/languages/java) & [project manager](https://code.visualstudio.com/docs/java/java-project).
+
 **Git**    
   1. After downloading VSCode, download [Git](https://git-scm.com/).
   2. Select all default configurations except for the default editor option.
