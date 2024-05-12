@@ -14,7 +14,7 @@ Before the crash course, make sure you have the following software installed:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Java](https://www.java.com/en/download/)
 
-You can find installation links and a guide in the "Installations" tab.
+You can find installation links and guide [here](#Installation).
 
 ## Pre-existing Knowledge
 
@@ -25,10 +25,34 @@ You'll need prior knowledge of the following technologies:
 - Linux Command Line
 - Java
 
-If you're unfamiliar with these, check out the cheat sheets provided in the here. Additionally, links to learning resources are available if you're interested in diving deeper.
+If you're unfamiliar with these, check out the cheat sheets provided in the [here](#Cheatsheet). Additionally, links to learning resources are available if you're interested in diving deeper.
 
 ## Repositories
 
 Explore the GitHub repository for sample repositories related to the workshop.
 
 Happy learning!
+
+# Installation
+**Java**
+  1. First install the Visual Studio Code with Java pack on your system.
+  2. If you already have Java installed, then use [this](code.visualstudio.com/download) *(if you have a windows system, please download the x64 User Installer)*&
+  3. Download the [java extensions](https://code.visualstudio.com/docs/languages/java) & [project manager](https://code.visualstudio.com/docs/java/java-project).
+**Git**    
+  1. After downloading VSCode, download [Git](https://git-scm.com/).
+  2. Select all default configurations except for the default editor option.
+  3. Please change it to VSCode *(it may prompt a VSCode download, but can be safely ignored if you already have it installed)*.
+
+# Cheatsheet
+  - [**HTML + CSS**]()
+  - [**Linux Command Line**]()
+  - [**Java**]()
+  - [**Git + Github**]()
+
+
+
+
+
+
+
+
