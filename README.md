@@ -30,7 +30,7 @@ If you're unfamiliar with these, check out the cheat sheets provided in the [her
 ## Repositories
 
 Explore the GitHub repository for sample repositories related to the workshop.
-1. Personal Portfolio
+1. Generic Portfolio
 2. Timetable Builder
 
 Happy learning!
